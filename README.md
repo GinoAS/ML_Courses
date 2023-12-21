@@ -1,1 +1,1 @@
-# Machine-Learning
+# Practice ML Courses
